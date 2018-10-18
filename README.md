@@ -4,11 +4,7 @@
 
 
 - Debian 8 x86 & x64
-
-`apt-get -y install wget && wget https://raw.githubusercontent.com/iephdevs/script1/master/ieph.sh && chmod +x ieph.sh && ./ieph.sh && rm -f ieph.sh && history -c
-
-# Fixed script
-`apt-get -y install wget && wget https://raw.githubusercontent.com/iephdevs/script1/master/iephssh.sh && chmod +x iephssh.sh && ./iephssh.sh && rm -f iephssh.sh && history -c
+`apt-get -y install wget && wget https://raw.githubusercontent.com/iephdeveloper/iephssh/master/iephssh.sh && chmod +x iephssh.sh && ./iephssh.sh && rm -f iephssh.sh && history -c
 
 
 
@@ -45,7 +41,7 @@
 
 - Badvpn : 7300
 
-- Nginx : 85
+- Nginx : 80
 
 
 ### Server Tools:
